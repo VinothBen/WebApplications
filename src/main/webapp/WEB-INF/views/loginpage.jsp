@@ -9,7 +9,7 @@
 	<center>
 		<form action="add" name="loginpage" method="POST">
 			<table border="5">
-				<h1 style="color: blue">LogPage.....</h1>
+				<h1 style="color: blue">LogPage.....Updated</h1>
 				<tr>
 					<td>LiginId:<input type="text" name="loginId" required /></td>
 				</tr>
